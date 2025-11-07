@@ -90,6 +90,7 @@ Curated list of Uzbek Telegram dev groups
 
 ## Others
 
+- [@quantumuzc](https://t.me/quantumuzc)
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
 - [@botjs_uz](https://t.me/botjs_uz)
 - [@it_chats_uz](https://t.me/it_chats_uz)
